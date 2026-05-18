@@ -9,7 +9,7 @@ load_dotenv()
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 def load_data():
-    """Load real calendar + emails, mock tasks"""
+    """Load real calendar + emails only"""
     
     print("📊 Loading real data from Google...\n")
     
@@ -18,9 +18,8 @@ def load_data():
     calendar = google_data['calendar']
     emails = google_data['emails']
     
-    # Mock tasks for now (add real task integration later)
-    with open("mock_tasks.json", "r") as f:
-        tasks = json.load(f)
+    # No tasks for now
+    tasks = []
     
     return calendar, emails, tasks
 
@@ -40,18 +39,14 @@ CALENDAR (today's events - REAL DATA):
 EMAILS (unread/important from last 24h - REAL DATA):
 {json.dumps(emails, indent=2)}
 
-TASKS (active/upcoming):
-{json.dumps(tasks, indent=2)}
-
 Generate a concise morning brief with:
 1. Executive Summary (2-3 sentences - what needs attention TODAY)
 2. Today's Schedule (highlight any back-to-back meetings or prep needs)
-3. Critical Action Items (flag anything due today or blocking others)
-4. Heads Up (email threads needing response, deadline conflicts, prep gaps)
+3. Email Highlights (threads needing response or action)
 
-**Look for connections:** If an email relates to a meeting today, mention it. If a task is due but not scheduled, flag it.
+**Look for connections:** If an email relates to a meeting today, mention it.
 
-Keep it under 400 words. Be direct and actionable."""
+Keep it under 300 words. Be direct and actionable."""
 
     print("🤖 Generating brief with GPT...\n")
     
