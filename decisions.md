@@ -122,3 +122,66 @@ Main failure modes:
 - Now: 30 seconds to run script + 5 min to review report
 
 **Next:** Module 2 - Morning Brief Agent
+
+## Module 2: Morning Brief Agent
+
+**What worked:**
+- Google Calendar API + Gmail API direct integration (skipped MCP complexity)
+- OAuth 2.0 flow for Calendar + Gmail read-only access
+- Real-time synthesis: pulls actual calendar events + unread/important emails from last 24h
+- Windows Task Scheduler automation (runs daily at 7am)
+- Switched from Anthropic to OpenAI API (gpt-4o-mini) - Anthropic key had no model access
+
+**What broke:**
+- MCP SDK from Python was flaky and protocol versions incompatible
+  - Spent 2 hours debugging MCP connections before switching to direct Google APIs
+  - Lesson: When the abstraction layer is broken, drop down to the underlying API
+- Anthropic API returned 404 for all models despite valid key
+  - Switched to OpenAI which was already working from Module 1
+- GitHub push protection blocked commits with OAuth tokens/credentials in history
+  - Had to nuke Git history and start fresh with proper .gitignore
+  - Lesson: Set up .gitignore BEFORE first commit, always
+
+**Real output:**
+- Morning brief generated from my actual Google Calendar + Gmail
+- Synthesizes 4+ calendar events + 10+ emails into 300-word actionable brief
+- Identifies connections (e.g., "Sarah's email about AWS costs relates to your 4pm vendor renewal meeting")
+- Saved as markdown file: `morning_brief_YYYYMMDD.md`
+
+**Cost:**
+- ~$0.01 per brief (150-300 tokens)
+- Running daily = $3.65/year
+- 50x cheaper than any "executive briefing" SaaS tool
+
+**Time saved:**
+- Before: 15-20 minutes every morning checking calendar, scanning email, mental synthesis
+- After: 2 minutes reading the brief
+- ROI: Saves ~90 hours/year
+
+**Technical wins:**
+- Learned OAuth 2.0 flow end-to-end (Google Cloud Console, scopes, token refresh)
+- Handled multiple data sources (Calendar API, Gmail API) with single credential flow
+- Built automated scheduling with Windows Task Scheduler + batch file
+- Proper secrets management (.gitignore, never commit tokens/credentials)
+
+**What I'd do differently at scale:**
+- Add error notifications (email/Slack if brief generation fails)
+- Add task integration (Notion API, Asana API, or local task file)
+- Cache calendar/email data to reduce API calls if run multiple times per day
+- Add "prep needed" detection (flag meetings without agenda or with many attendees)
+- Implement retry logic if Google APIs are rate-limited
+
+**Next steps:**
+- Could add real task integration (currently removed mock tasks)
+- Could add voice/SMS delivery option (Twilio integration)
+- Could expand to pull Slack mentions, GitHub PRs, etc.
+- Module 3: Build custom MCP server (turn one of my agents into a reusable MCP)
+
+---
+
+**Module 1 + 2 Summary:**
+- Total agents built: 7 (5 in Module 1, 2 in Module 2)
+- Total time: ~10 hours
+- Plan estimate: 30+ hours
+- All using real data (bank transactions, Google Calendar, Gmail)
+- Total monthly cost if running everything: <$1
