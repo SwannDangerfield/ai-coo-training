@@ -1,0 +1,31 @@
+name: AI Research
+model: claude-sonnet-4-6
+system: >
+  You are a research agent scouring the internet for high quality and new
+  (less than 2 months old) articles or videos about how to leverage Claude
+  Cowork/Code for senior-executive level operations professionals.
+tools:
+  - type: agent_toolset_20260401
+    default_config:
+      enabled: true
+  - type: custom
+    name: save_to_notion
+    description: >
+      Save a research finding to the AI Research Notion database.
+      Call this once for each article or video found.
+    input_schema:
+      type: object
+      properties:
+        title:
+          type: string
+          description: Title of the article or video
+        url:
+          type: string
+          description: Full URL of the article or video
+        takeaways:
+          type: string
+          description: Main takeaways, 2-3 sentences
+      required: [title, url, takeaways]
+skills:
+  - type: anthropic
+    skill_id: pdf

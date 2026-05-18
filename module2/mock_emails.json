@@ -1,0 +1,30 @@
+[
+  {
+    "from": "sarah@company.com",
+    "subject": "RE: Infrastructure costs - need your input",
+    "snippet": "Can we discuss the AWS bill spike? Want to align before the renewal meeting today.",
+    "date": "2026-05-18T08:23:00",
+    "unread": true
+  },
+  {
+    "from": "board@company.com",
+    "subject": "Board deck - final review needed",
+    "snippet": "Please review slides 12-18 before Thursday's meeting. Focus on the ops metrics section.",
+    "date": "2026-05-18T07:45:00",
+    "unread": true
+  },
+  {
+    "from": "noreply@slack.com",
+    "subject": "You have 3 unread mentions in #operations",
+    "snippet": "Questions about the new vendor onboarding process and Q2 budget allocation.",
+    "date": "2026-05-18T06:30:00",
+    "unread": true
+  },
+  {
+    "from": "finance@company.com",
+    "subject": "Q2 budget review - action items",
+    "snippet": "Following up from yesterday's call. Need ops headcount justification by EOD Friday.",
+    "date": "2026-05-17T16:20:00",
+    "unread": false
+  }
+]

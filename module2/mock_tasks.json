@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Finalize vendor contract with AWS",
+    "due": "2026-05-19",
+    "priority": "high",
+    "status": "in_progress"
+  },
+  {
+    "title": "Review board deck ops section",
+    "due": "2026-05-20",
+    "priority": "high",
+    "status": "todo"
+  },
+  {
+    "title": "Q2 headcount justification doc",
+    "due": "2026-05-21",
+    "priority": "high",
+    "status": "in_progress"
+  },
+  {
+    "title": "Update onboarding docs for new vendors",
+    "due": "2026-05-24",
+    "priority": "medium",
+    "status": "todo"
+  },
+  {
+    "title": "Schedule Q3 planning kickoff",
+    "due": "2026-05-25",
+    "priority": "low",
+    "status": "todo"
+  }
+]

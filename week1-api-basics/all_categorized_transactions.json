@@ -1,0 +1,6682 @@
+[
+  {
+    "Transaction Date": "05/07/2026",
+    "Post Date": "05/08/2026",
+    "Description": "FRG*SHOP.NHL.COM",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-83.33",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/08/2026",
+    "Description": "AAFES-JBA FC STARBUCKS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.55",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/07/2026",
+    "Post Date": "05/08/2026",
+    "Description": "ALEXANDRIA CLEANERS",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-29.70",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/07/2026",
+    "Post Date": "05/08/2026",
+    "Description": "DD *DOORDASH SUSHIJINA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-102.89",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/08/2026",
+    "Description": "PANDA EXPRESS #2095",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.10",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/08/2026",
+    "Description": "HOBBY-LOBBY #864",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-36.01",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/07/2026",
+    "Description": "GOOGLE *Google One",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/07/2026",
+    "Description": "VA ABC STORE 080",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-40.27",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/05/2026",
+    "Post Date": "05/06/2026",
+    "Description": "TST*SAIGON ROLLS ALEXAND",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.64",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/05/2026",
+    "Post Date": "05/06/2026",
+    "Description": "TST* PORT CITY",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.83",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/05/2026",
+    "Post Date": "05/06/2026",
+    "Description": "ONEQUINCE* Q26053629",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-5.09",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/06/2026",
+    "Description": "ACTBLUE* ALEXANDRIA.OC",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-27.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/04/2026",
+    "Post Date": "05/05/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "05/04/2026",
+    "Post Date": "05/05/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "05/03/2026",
+    "Post Date": "05/04/2026",
+    "Description": "Kindle Unltd*3J18D15J3",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "05/02/2026",
+    "Post Date": "05/04/2026",
+    "Description": "MOMO SUSHI",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-70.99",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/03/2026",
+    "Post Date": "05/04/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-294.15",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "05/03/2026",
+    "Post Date": "05/04/2026",
+    "Description": "RD NEWSLETTER",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-6.00",
+    "Memo": "Restaurant Depot - Meal Planning",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "05/02/2026",
+    "Post Date": "05/04/2026",
+    "Description": "TST*PITANGO - OLD TOWN A",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.04",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/03/2026",
+    "Post Date": "05/04/2026",
+    "Description": "Blizzard Entertainment",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-39.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "05/01/2026",
+    "Post Date": "05/03/2026",
+    "Description": "TST*DEL RAY CAFE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-61.06",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/01/2026",
+    "Post Date": "05/03/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "05/02/2026",
+    "Post Date": "05/03/2026",
+    "Description": "COMPOST CREW INC  A BE",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-25.27",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/30/2026",
+    "Post Date": "05/03/2026",
+    "Description": "STARBUCKS STORE 81055",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-8.31",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/30/2026",
+    "Post Date": "05/01/2026",
+    "Description": "CHESTERS CONVEINENCE STOR",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-31.70",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/29/2026",
+    "Post Date": "05/01/2026",
+    "Description": "SHELL OIL 57543616502",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-47.56",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/30/2026",
+    "Post Date": "05/01/2026",
+    "Description": "COMPOST CREW INC  A BE",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-5.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/01/2026",
+    "Post Date": "05/01/2026",
+    "Description": "LYFT   *2 RIDES 04-29",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-133.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/29/2026",
+    "Post Date": "05/01/2026",
+    "Description": "ARMK XMA CONCESSIONS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-27.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/30/2026",
+    "Post Date": "05/01/2026",
+    "Description": "COUNTRY DELI",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-87.32",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/29/2026",
+    "Post Date": "05/01/2026",
+    "Description": "ARMK XMA CONCESSIONS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-41.01",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/29/2026",
+    "Post Date": "05/01/2026",
+    "Description": "ARMK XMA CONCESSIONS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-38.36",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/30/2026",
+    "Post Date": "04/30/2026",
+    "Description": "GOOGLE *Crunchyroll An",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-139.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/28/2026",
+    "Post Date": "04/29/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-69.83",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/27/2026",
+    "Post Date": "04/29/2026",
+    "Description": "BARCELONA 14TH STREET",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-139.30",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/28/2026",
+    "Post Date": "04/29/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-7.26",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/28/2026",
+    "Post Date": "04/29/2026",
+    "Description": "GAMETIME",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1096.00",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/28/2026",
+    "Post Date": "04/29/2026",
+    "Description": "KLAR SPA STUDIOS",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-377.30",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "04/28/2026",
+    "Post Date": "04/28/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "9186.43",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/27/2026",
+    "Post Date": "04/28/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/27/2026",
+    "Post Date": "04/28/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/27/2026",
+    "Post Date": "04/28/2026",
+    "Description": "STEAMGAMES.COM 4259522985",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-14.39",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/27/2026",
+    "Post Date": "04/28/2026",
+    "Description": "GDP*LP DENTAL",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-403.00",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "04/26/2026",
+    "Post Date": "04/27/2026",
+    "Description": "PELOTON CREDIT $10/MONTH",
+    "Category": "Fees & Adjustments",
+    "Type": "Adjustment",
+    "Amount": "10.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/26/2026",
+    "Post Date": "04/27/2026",
+    "Description": "PELOTON* MEMBERSHIP",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-126.14",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/26/2026",
+    "Post Date": "04/27/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-124.57",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/25/2026",
+    "Post Date": "04/27/2026",
+    "Description": "PMUSA 363089 PREMIUM A",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-10.20",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/26/2026",
+    "Post Date": "04/27/2026",
+    "Description": "SQ *CORTADO CAFE INC",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-44.81",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/25/2026",
+    "Post Date": "04/26/2026",
+    "Description": "THRIVE MARKET",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-260.89",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/25/2026",
+    "Post Date": "04/26/2026",
+    "Description": "TST* PORT CITY",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-30.66",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/24/2026",
+    "Post Date": "04/26/2026",
+    "Description": "GIANT 0261",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-48.81",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/24/2026",
+    "Post Date": "04/26/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/23/2026",
+    "Post Date": "04/26/2026",
+    "Description": "PANDA EXPRESS #2095",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-18.43",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/24/2026",
+    "Post Date": "04/26/2026",
+    "Description": "SP I AND LOVE AND YOU",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-228.93",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/23/2026",
+    "Post Date": "04/24/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-4.61",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/23/2026",
+    "Post Date": "04/24/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-8.33",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/23/2026",
+    "Post Date": "04/24/2026",
+    "Description": "DD *DOORDASH THEBROILE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-72.83",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/22/2026",
+    "Post Date": "04/24/2026",
+    "Description": "POTBELLY #388",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-17.02",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/24/2026",
+    "Description": "JAY HOTEL ROOMS",
+    "Category": "Travel",
+    "Type": "Return",
+    "Amount": "0.48",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/22/2026",
+    "Post Date": "04/23/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.92",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/22/2026",
+    "Post Date": "04/23/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-4.33",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/21/2026",
+    "Post Date": "04/22/2026",
+    "Description": "GOOGLE *YouTubePremium",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-22.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/21/2026",
+    "Post Date": "04/22/2026",
+    "Description": "DUNKIN #303739 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.74",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/21/2026",
+    "Post Date": "04/22/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.84",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/21/2026",
+    "Post Date": "04/22/2026",
+    "Description": "MCDONALD'S F34360",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-25.31",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/22/2026",
+    "Post Date": "04/22/2026",
+    "Description": "Disney Plus",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-19.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/22/2026",
+    "Post Date": "04/22/2026",
+    "Description": "STARBUCKS 8007827282",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.63",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/21/2026",
+    "Post Date": "04/22/2026",
+    "Description": "TAVERNA CRETECOU",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-76.80",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/20/2026",
+    "Post Date": "04/21/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/21/2026",
+    "Post Date": "04/21/2026",
+    "Description": "LYFT   *1 RIDE 04-19",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-32.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/21/2026",
+    "Description": "JAY HOTEL ROOMS",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-128.89",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/20/2026",
+    "Post Date": "04/21/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-173.36",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/20/2026",
+    "Post Date": "04/21/2026",
+    "Description": "DD *DOORDASH INDAROMA-",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-67.37",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/21/2026",
+    "Description": "BURGER KING #21655",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.98",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/20/2026",
+    "Post Date": "04/21/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/21/2026",
+    "Description": "TST*SFOKD - THE THIRD FL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.86",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/20/2026",
+    "Post Date": "04/20/2026",
+    "Description": "LYFT   *1 RIDE 04-18",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-23.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/20/2026",
+    "Description": "THE HOME DEPOT 4603",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-63.95",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/20/2026",
+    "Description": "BLUE MERMAID RESTAURANT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-61.79",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/20/2026",
+    "Description": "LILLIE COITS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-113.60",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/20/2026",
+    "Description": "LA TINGERIA ALEXANDRIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-17.85",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/20/2026",
+    "Description": "ARCHIMEDES BANYA",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-72.00",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/20/2026",
+    "Description": "TST* PORT CITY",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-28.11",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/20/2026",
+    "Description": "ONLY IN SAN FRANCISCO",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-29.32",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/20/2026",
+    "Description": "SISTERITA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-83.42",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/20/2026",
+    "Description": "TST* PIXLCAT COFFEE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.57",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/20/2026",
+    "Description": "DD *DOORDASH PUPATELLA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-105.47",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/20/2026",
+    "Description": "AMAZON MKTPL*BY7163VO1",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-45.56",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/20/2026",
+    "Post Date": "04/20/2026",
+    "Description": "LYFT   *RIDE SUN 6AM",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-46.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/19/2026",
+    "Post Date": "04/19/2026",
+    "Description": "WAYMO",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-45.81",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-6.98",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "GLF*LAURELHILLGOLF",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-3.18",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-9.37",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/19/2026",
+    "Description": "TST*CACHE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.16",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-6.98",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-24.31",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "GLF*LAURELHILLGOLF",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-109.00",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-11.17",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-13.56",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "DUNKIN #348454 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.21",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "DUNKIN #354568 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.19",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-24.31",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/19/2026",
+    "Description": "RYOKOS JAPANESE RESTAURA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-101.35",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-9.37",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "SFMTA MUNI MOBILE",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-9.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-10.57",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/18/2026",
+    "Post Date": "04/19/2026",
+    "Description": "LIME*RIDE 2TTL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-14.75",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "YAFA GRILLE - LAUREL HILL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-21.74",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "SFMTA TRANSIT TVM",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-5.70",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/19/2026",
+    "Description": "TST*SFOKD - THE THIRD FL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.20",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/19/2026",
+    "Description": "CREW NETWORK",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-40.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/19/2026",
+    "Description": "THE POST ROOM OR STARLITE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-84.73",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/17/2026",
+    "Description": "K-1 BEER AND WINE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-28.60",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/17/2026",
+    "Description": "AMZN Digital*BY5DB1C51",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-8.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/17/2026",
+    "Description": "CA ACADEMY OF SCIENCES",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-55.00",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/17/2026",
+    "Description": "WAYMO",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-21.56",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/17/2026",
+    "Description": "TST*FRESHENS - B24",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.40",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/17/2026",
+    "Description": "TST*SFOKD - THE THIRD FL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-67.57",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/17/2026",
+    "Description": "WAYMO",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-15.70",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/17/2026",
+    "Description": "WAYMO",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-13.66",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/17/2026",
+    "Post Date": "04/17/2026",
+    "Description": "LYFT   *2 RIDES 04-15",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-103.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/17/2026",
+    "Description": "NEIMAN MARCUS 012",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-99.94",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/17/2026",
+    "Description": "GRAND HYATT DENVER",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-877.50",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/17/2026",
+    "Description": "TST*SFOKD - THE THIRD FL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.20",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/16/2026",
+    "Description": "LYFT   *RIDE WED 5AM",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-57.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/16/2026",
+    "Description": "SQ *SF FERRY BUILDING SUI",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/16/2026",
+    "Description": "STEAMGAMES.COM 4259522985",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-17.18",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/16/2026",
+    "Description": "JAY HOTEL ROOMS",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-21.63",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/16/2026",
+    "Description": "LE MERIDIEN DENVER F&amp;B",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-105.94",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/16/2026",
+    "Description": "TST* BURMA SUPERSTAR OAKL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-151.40",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/16/2026",
+    "Post Date": "04/16/2026",
+    "Description": "SF BAY FERRY",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-4.90",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/15/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-134.44",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/15/2026",
+    "Description": "Dollar Sushi",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.81",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/15/2026",
+    "Description": "DD *DOORDASH ICHIBANSU",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-41.91",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/15/2026",
+    "Description": "LABORATORY CORPORATION OF",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-9.05",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/15/2026",
+    "Description": "EXXON ALEXANDRIA DUKE",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-46.73",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/15/2026",
+    "Description": "RAY-BAN F062",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-333.89",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/15/2026",
+    "Post Date": "04/15/2026",
+    "Description": "LYFT   *2 RIDES 04-13",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-30.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "SQ *RETROGRADE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.36",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/14/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "On Sportswear",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-169.60",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/14/2026",
+    "Description": "GRAND HYATT DENVER",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.94",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "ALEXANDRIA CLEANERS",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-10.60",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "CRICUT",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-9.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/14/2026",
+    "Description": "LYFT   *RIDE MON 9AM",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-20.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "METROPOLIS PARKING",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-25.29",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/14/2026",
+    "Description": "TST*COPERTA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-55.79",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "MEOW WOLF",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-49.00",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "TST* HASHTAG 02 - DOWNTOW",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-27.22",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/14/2026",
+    "Post Date": "04/14/2026",
+    "Description": "SP SHEETS LAUNDRY CLUB",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-16.93",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/14/2026",
+    "Description": "DCA RESERVOIR - ECOM",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-29.27",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/14/2026",
+    "Description": "SQ *LITTLE OWL COFFEE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.62",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/13/2026",
+    "Description": "TST* SILVER DINER - ALEXA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-63.37",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/13/2026",
+    "Description": "USCONNECT ACCNT MKV 0028",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-3.06",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/13/2026",
+    "Description": "Ariat Brand",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-54.63",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/12/2026",
+    "Post Date": "04/13/2026",
+    "Description": "DD *DOORDASH MAMMASKIT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-77.95",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/13/2026",
+    "Description": "LYFT   *RIDE SUN 4AM",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-27.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/13/2026",
+    "Post Date": "04/13/2026",
+    "Description": "NESPRESSO USA INC",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-44.83",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/10/2026",
+    "Post Date": "04/12/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/10/2026",
+    "Post Date": "04/12/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-60.98",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/11/2026",
+    "Post Date": "04/12/2026",
+    "Description": "LS ARROWINE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-62.25",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/10/2026",
+    "Post Date": "04/12/2026",
+    "Description": "GRAND HYATT DENVER",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-247.24",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/11/2026",
+    "Post Date": "04/12/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-28.47",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/10/2026",
+    "Post Date": "04/12/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-6.73",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "04/10/2026",
+    "Post Date": "04/12/2026",
+    "Description": "DD *DOORDASH JETSPIZZA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-55.10",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/11/2026",
+    "Post Date": "04/12/2026",
+    "Description": "LYFT   *2 RIDES 04-09",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-52.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "04/09/2026",
+    "Post Date": "04/10/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-150.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/09/2026",
+    "Post Date": "04/10/2026",
+    "Description": "HARRIS TEETER #0235",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-75.49",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/08/2026",
+    "Post Date": "04/10/2026",
+    "Description": "POTBELLY #610",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.30",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/09/2026",
+    "Post Date": "04/10/2026",
+    "Description": "LOUDOUN MEDICAL GROUP PC",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-35.00",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "04/09/2026",
+    "Post Date": "04/10/2026",
+    "Description": "DD *DOORDASH CRUMBL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-40.36",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/09/2026",
+    "Post Date": "04/10/2026",
+    "Description": "TST* PORT CITY",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-9.84",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/09/2026",
+    "Post Date": "04/10/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/08/2026",
+    "Post Date": "04/09/2026",
+    "Description": "DUNKIN #348454 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.40",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/08/2026",
+    "Post Date": "04/09/2026",
+    "Description": "APPLE.COM/BILL",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-0.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/08/2026",
+    "Post Date": "04/09/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-16.68",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/08/2026",
+    "Post Date": "04/09/2026",
+    "Description": "DD *DOORDASH CHILIWOKA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-85.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/07/2026",
+    "Post Date": "04/08/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-113.31",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/08/2026",
+    "Description": "PANDA EXPRESS #2095",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.65",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/08/2026",
+    "Post Date": "04/08/2026",
+    "Description": "EB *BANNED BOOK SPEAKE",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-7.42",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/07/2026",
+    "Post Date": "04/08/2026",
+    "Description": "HARRIS TEETER",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-9.27",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/07/2026",
+    "Post Date": "04/08/2026",
+    "Description": "WL *STEAM PURCHASE",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-4.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/07/2026",
+    "Post Date": "04/08/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/07/2026",
+    "Description": "GOOGLE *Google One",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/07/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/07/2026",
+    "Description": "DUNKIN #303739 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.74",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/07/2026",
+    "Post Date": "04/07/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/07/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-5.94",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/07/2026",
+    "Post Date": "04/07/2026",
+    "Description": "SP CANOPY",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-31.51",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/07/2026",
+    "Description": "MARINUCCI &amp; ASSOCIATES",
+    "Category": "Professional Services",
+    "Type": "Sale",
+    "Amount": "-800.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/05/2026",
+    "Post Date": "04/07/2026",
+    "Description": "PETDATA  INC.",
+    "Category": "Professional Services",
+    "Type": "Sale",
+    "Amount": "-138.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/07/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-2.65",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/06/2026",
+    "Post Date": "04/06/2026",
+    "Description": "ACTBLUE* ALEXANDRIA.OC",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-27.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/04/2026",
+    "Post Date": "04/06/2026",
+    "Description": "5GUYS 0003 QSR",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-42.81",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/05/2026",
+    "Post Date": "04/06/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-80.63",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/04/2026",
+    "Post Date": "04/05/2026",
+    "Description": "STEAMGAMES.COM 4259522985",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-24.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "04/03/2026",
+    "Post Date": "04/05/2026",
+    "Description": "VCA ANIMAL HOSP #878",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-452.75",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/03/2026",
+    "Post Date": "04/05/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/04/2026",
+    "Post Date": "04/05/2026",
+    "Description": "DD *DOORDASH INDAROMA-",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-62.37",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "04/03/2026",
+    "Post Date": "04/05/2026",
+    "Description": "Kindle Unltd*D97OJ1U63",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "04/03/2026",
+    "Post Date": "04/03/2026",
+    "Description": "Payment Thank You - Web",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "10499.61",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/01/2026",
+    "Post Date": "04/02/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-84.70",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "04/01/2026",
+    "Post Date": "04/02/2026",
+    "Description": "ALEXANDRIA CLEANERS",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-30.10",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/02/2026",
+    "Description": "PMUSA 758054 ARLINGTON",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-0.99",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "04/01/2026",
+    "Post Date": "04/02/2026",
+    "Description": "SUBWAY 25267",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-18.14",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/01/2026",
+    "Description": "WHOLEFDS FCH #10775",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-21.21",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "04/01/2026",
+    "Description": "MARGARITAVILLE NASHVILLE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.03",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/01/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Miscellaneous",
+    "Type": "Sale",
+    "Amount": "-50.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "04/01/2026",
+    "Post Date": "04/01/2026",
+    "Description": "AMERICAN AIR0012330628869",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-675.79",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/01/2026",
+    "Description": "Patreon* Membership",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-6.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "04/01/2026",
+    "Description": "JASON ALDEANS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-37.03",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/01/2026",
+    "Description": "SQ *IDIDOS SOCIAL HOUSE I",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "04/01/2026",
+    "Description": "TACO BELL 036466",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.76",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "04/01/2026",
+    "Description": "POSTYS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.01",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/01/2026",
+    "Description": "SWIFTPRO LLC",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-6810.01",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "04/01/2026",
+    "Description": "WL *STEAM PURCHASE",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-39.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "04/01/2026",
+    "Description": "JASON ALDEANS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.00",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/31/2026",
+    "Post Date": "03/31/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "13000.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "TST* BNAIR - BAR 1 - MOTT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-10.82",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "USPS PO 5131310170",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-9.79",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/31/2026",
+    "Description": "THE HOME DEPOT #4603",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-45.48",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/31/2026",
+    "Description": "WHATABURGER 1366",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.84",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-54.90",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "COMPOST CREW INC  A BE",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-4.13",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-5.67",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/30/2026",
+    "Post Date": "03/31/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-92.51",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/31/2026",
+    "Description": "RAISING CANES 0822",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-10.95",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "DGX - NASHVILLE SOBRO",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-3.91",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/30/2026",
+    "Description": "UNITED      0162388525344",
+    "Category": "Travel",
+    "Type": "Return",
+    "Amount": "282.11",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "PRIVIA MEDICAL GROUP LLC",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "EXXON ALEXANDRIA DUKE",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-56.31",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "DD *DOORDASH THEBROILE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-42.78",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "SPO*BAKERSFIELDNASHVILLE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-49.41",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/28/2026",
+    "Post Date": "03/30/2026",
+    "Description": "GAYLORD GENERAL JCKSN",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-27.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "MCKAY USED BOOKS &amp; CD'S",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-50.21",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "TARGET        00022400",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-3.83",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "TST*MARTINS BAR-B-QUE J",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-22.14",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/30/2026",
+    "Description": "TILEBAR",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-5.30",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "SQ *CORTADO CAFE INC",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.08",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/28/2026",
+    "Post Date": "03/30/2026",
+    "Description": "SWIFTPRO LLC",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-6810.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/28/2026",
+    "Post Date": "03/30/2026",
+    "Description": "JASON ALDEANS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-38.03",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "TST*MARTINS BAR-B-QUE J",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-35.81",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/29/2026",
+    "Post Date": "03/30/2026",
+    "Description": "SP AMAYA JADE",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-11.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "JASON ALDEANS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-38.03",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "DD *DOORDASH COURTHOUS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-52.18",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "TACO BELL 036466",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-16.97",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "TST*THE PANCAKE PANTRY -",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-23.36",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "TST*ELEGY COFFEE DOWNTOW",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-9.77",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "CHAMPYS CHIC PRODUCT",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-56.81",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/26/2026",
+    "Post Date": "03/29/2026",
+    "Description": "ELEVATION BURGER - REAGAN",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-8.53",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "FRONTIER AI YJ7UJD",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-403.98",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "SQ *NASHVILLE BARREL CO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.09",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/28/2026",
+    "Post Date": "03/29/2026",
+    "Description": "AMAZON MKTPL*B57M686Z0",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-157.13",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/27/2026",
+    "Post Date": "03/29/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/26/2026",
+    "Post Date": "03/27/2026",
+    "Description": "GOOGLE *Crunchyroll An",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-13.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/26/2026",
+    "Post Date": "03/27/2026",
+    "Description": "PELOTON CREDIT $10/MONTH",
+    "Category": "Fees & Adjustments",
+    "Type": "Adjustment",
+    "Amount": "10.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/26/2026",
+    "Post Date": "03/27/2026",
+    "Description": "PELOTON* MEMBERSHIP",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-126.14",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/26/2026",
+    "Post Date": "03/27/2026",
+    "Description": "FAMILY MEDICINE ASSOCIA",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-35.00",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "03/26/2026",
+    "Post Date": "03/27/2026",
+    "Description": "MICHAEL AND SON SERVICE",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-89.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/25/2026",
+    "Post Date": "03/26/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-80.22",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/26/2026",
+    "Description": "VCA ANIMAL HOSP #878",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-454.65",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/25/2026",
+    "Post Date": "03/26/2026",
+    "Description": "CLAUDE.AI SUBSCRIPTION",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-20.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/25/2026",
+    "Post Date": "03/26/2026",
+    "Description": "TST*CAFE KINDRED",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-24.38",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/25/2026",
+    "Post Date": "03/26/2026",
+    "Description": "TST*ADAS ON THE RIVER",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-284.21",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/25/2026",
+    "Post Date": "03/26/2026",
+    "Description": "SP I AND LOVE AND YOU",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-47.03",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/25/2026",
+    "Description": "NAVY EXCHANGE 060167",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-14.11",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/25/2026",
+    "Description": "SP JP BODEN SVCS INC",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-35.14",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/25/2026",
+    "Description": "BURGER FI JAX",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-26.41",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/25/2026",
+    "Description": "DUNKIN #358770",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-10.62",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/25/2026",
+    "Description": "DUNKIN #358770",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-4.61",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/25/2026",
+    "Post Date": "03/25/2026",
+    "Description": "DD *DOORDASH DOORDASHG",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/25/2026",
+    "Description": "VETSOURCE",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-94.46",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/24/2026",
+    "Post Date": "03/25/2026",
+    "Description": "HARRIS TEETER #413",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-11.60",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/24/2026",
+    "Description": "DUNKIN #358770",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-18.66",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/24/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/24/2026",
+    "Description": "WHISTLEEXPRESSCARWASH",
+    "Category": "Automotive",
+    "Type": "Sale",
+    "Amount": "-16.45",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/24/2026",
+    "Description": "SP JP BODEN SVCS INC",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-246.33",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/24/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "03/23/2026",
+    "Post Date": "03/23/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "4154.23",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "MARSHALLS #0042",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-22.89",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "SQ *ZAP CAT ESPRESSO BAR",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.32",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "TST* MATT &amp; TONY'S",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-25.94",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "TOTAL WINE &amp; MORE 2",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-27.75",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/21/2026",
+    "Post Date": "03/23/2026",
+    "Description": "NAVY EXCHANGE 060120",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-20.96",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "HARRIS TEETER",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-67.06",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "PANDA EXPRESS #2860",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.83",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "TALKIN TACOS (J",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-36.45",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/23/2026",
+    "Description": "RACETRAC 2500",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-14.09",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/21/2026",
+    "Post Date": "03/23/2026",
+    "Description": "PINZ   SPINZ  10190080",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.60",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/21/2026",
+    "Post Date": "03/22/2026",
+    "Description": "KLAR SPA STUDIOS",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-269.50",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "FIRST WATCH 0446 PAT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-24.78",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "SQ *1985 COFFEE SHOP &amp; EV",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-21.36",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "LITTER ROBOT WHISKER",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-951.88",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.50",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/22/2026",
+    "Description": "TST* CULHANE'S IRISH PUB",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-70.96",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "USPS PO 5131310170",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-44.71",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/21/2026",
+    "Post Date": "03/22/2026",
+    "Description": "RENT THE RUNWAY",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-91.57",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "FOC SLE CPO CL10190148",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.70",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/21/2026",
+    "Post Date": "03/22/2026",
+    "Description": "GOOGLE *YouTubePremium",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-22.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/22/2026",
+    "Description": "CHICK-FIL-A #02931",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.42",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/22/2026",
+    "Post Date": "03/22/2026",
+    "Description": "Disney Plus",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-19.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/21/2026",
+    "Post Date": "03/22/2026",
+    "Description": "SQ *1985 COFFEE SHOP &amp; EV",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.75",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/20/2026",
+    "Post Date": "03/22/2026",
+    "Description": "PANDA EXPRESS #2860",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.83",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "SUPPLYHOUSE.COM",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-935.13",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/20/2026",
+    "Description": "SAFEWAY 3250",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-19.21",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "SYNCMYWORKOUT.COM",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-25.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "ETSY  INC.",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-101.76",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "PANDA EXPRESS #2860",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.76",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-6.73",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "DD *DOORDASH SWEETFIRE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-66.62",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-3.07",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/19/2026",
+    "Post Date": "03/20/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/17/2026",
+    "Post Date": "03/19/2026",
+    "Description": "CHICK-FIL-A #03185",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-21.52",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/19/2026",
+    "Description": "AJS HEATING  AIR CONDI",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-105.00",
+    "Memo": "",
+    "category": "Housing"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/19/2026",
+    "Description": "FLOYD'S 99 ALEXANDRIA -",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-56.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/19/2026",
+    "Description": "GLO30 OT* GLO30-VA-ALE",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-35.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/19/2026",
+    "Description": "VCN*VIRGINIASCC",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-100.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/19/2026",
+    "Description": "SOUTH BLOCK - OLD T",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-13.85",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/17/2026",
+    "Post Date": "03/18/2026",
+    "Description": "JAY HOTEL ROOMS",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-2032.93",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/18/2026",
+    "Post Date": "03/18/2026",
+    "Description": "LYFT   *1 RIDE 03-16",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-10.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/17/2026",
+    "Post Date": "03/18/2026",
+    "Description": "SP MANUCURIST INC.",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-110.24",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-63.45",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "AMZN Digital*B51J03AJ2",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-8.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "CVS/PHARMACY #01905",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-14.39",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "USPS PO 5101220108",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-12.62",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "Prime Video Channels",
+    "Category": "Entertainment",
+    "Type": "Return",
+    "Amount": "13.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/17/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/15/2026",
+    "Post Date": "03/16/2026",
+    "Description": "PETSMART # 0447",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-147.18",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/16/2026",
+    "Post Date": "03/16/2026",
+    "Description": "TST*JUNCTION BAKERY &amp; BI",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.60",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/15/2026",
+    "Post Date": "03/16/2026",
+    "Description": "SP I AND LOVE AND YOU",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-104.93",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/14/2026",
+    "Post Date": "03/15/2026",
+    "Description": "EXXON ALEXANDRIA DUKE",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-50.98",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-60.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.42",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/12/2026",
+    "Post Date": "03/15/2026",
+    "Description": "OLD BROGUE IRISH PUB",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-88.70",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/15/2026",
+    "Post Date": "03/15/2026",
+    "Description": "GOOGLE *HBO Max Stream",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-109.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/14/2026",
+    "Post Date": "03/15/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-51.77",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "DD *DOORDASH CHILIWOKA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-62.96",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "CRICUT",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-9.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "ULTA #669",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-64.66",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "Prime Video Channels",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-13.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/13/2026",
+    "Post Date": "03/15/2026",
+    "Description": "FIRST WATCH 0446",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-28.53",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/12/2026",
+    "Post Date": "03/13/2026",
+    "Description": "Monday.com INC",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-2005.16",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/10/2026",
+    "Post Date": "03/12/2026",
+    "Description": "PMUSA 758054 ARLINGTON",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-2.83",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/10/2026",
+    "Post Date": "03/12/2026",
+    "Description": "TRADER JOE S #640",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-24.19",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/11/2026",
+    "Post Date": "03/12/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-157.15",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/10/2026",
+    "Post Date": "03/11/2026",
+    "Description": "TST* MATT &amp; TONY'S",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-214.80",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/09/2026",
+    "Post Date": "03/11/2026",
+    "Description": "TRADER JOE S #644",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-75.27",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/10/2026",
+    "Post Date": "03/11/2026",
+    "Description": "TST*EAST WEST COFFEE WIN",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-5.95",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/08/2026",
+    "Post Date": "03/10/2026",
+    "Description": "LIL WOODYS SEA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.04",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/10/2026",
+    "Post Date": "03/10/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/09/2026",
+    "Post Date": "03/10/2026",
+    "Description": "SP I AND LOVE AND YOU",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-34.64",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/08/2026",
+    "Post Date": "03/10/2026",
+    "Description": "MCDONALD'S F33728",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.65",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/09/2026",
+    "Post Date": "03/10/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-6.73",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "ONCE IN A BLUE MOOSE MO",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-49.95",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "THE AVENUE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-17.20",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "FOUR POINTS BY SHERATON",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-22.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-120.26",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "THE WILDBIRCH HOTEL F&amp;B",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-22.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/09/2026",
+    "Description": "CHUY'S EC 0236055",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.39",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/08/2026",
+    "Post Date": "03/09/2026",
+    "Description": "DD *DOORDASH JETSPIZZA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-41.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/08/2026",
+    "Post Date": "03/09/2026",
+    "Description": "APPLE.COM/BILL",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-0.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/08/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "12956.32",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/08/2026",
+    "Description": "TST*TEQUILA 61",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-80.60",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "AAFES ELMENDORF STARBUCK",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-5.95",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/08/2026",
+    "Post Date": "03/08/2026",
+    "Description": "ACTBLUE* ALEXANDRIA.OC",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-27.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "SHEEP CREEK LODGE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-36.50",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "DD *DOORDASH COURTHOUS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-32.53",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/08/2026",
+    "Description": "SQ *MIDNIGHT SUN CAFE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.21",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "SQ *HYPERGOAT CAFE LLC",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-5.98",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/08/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-0.89",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "TST*TENT CITY TAPHOUSE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-30.50",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "SQ *MIDNIGHT SUN CAFE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.76",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "TST*CALL YOUR MOTHER - O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.37",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "GOOGLE *Google One",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/07/2026",
+    "Post Date": "03/08/2026",
+    "Description": "LS 6TH AVENUE OUTFITT",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-24.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/08/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-60.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "TST*MQR CAFE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.69",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "TST*MQR CAFE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.08",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "TOTALWINE 203 DIGITAL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-118.72",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/06/2026",
+    "Description": "TST*TENT CITY TAPHOUSE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-45.90",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "JOY'S CORNER",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-17.99",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "DD *DOORDASH SWEETGREE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-18.81",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/06/2026",
+    "Post Date": "03/06/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-150.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/05/2026",
+    "Post Date": "03/06/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-3.98",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/06/2026",
+    "Description": "DUNKIN DONUTS WASHINGT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.08",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/05/2026",
+    "Description": "DD *DOORDASH MAMMASKIT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-64.45",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/05/2026",
+    "Description": "MCDONALD'S M5006 OF VA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-9.98",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/05/2026",
+    "Description": "AMZ*Woot LLC",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-48.75",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/05/2026",
+    "Description": "WL *STEAM PURCHASE",
+    "Category": "Entertainment",
+    "Type": "Return",
+    "Amount": "13.19",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/05/2026",
+    "Description": "RUSSELL KNOX CAFE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-8.50",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/05/2026",
+    "Description": "SQ *SLAM CURL STUDIO",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-225.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "03/03/2026",
+    "Post Date": "03/04/2026",
+    "Description": "EZCATER*BOREKG",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-168.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/04/2026",
+    "Description": "SP JULIET WINE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-44.99",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/04/2026",
+    "Description": "UNITED      0164375182744",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-179.51",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/03/2026",
+    "Post Date": "03/04/2026",
+    "Description": "PAISANOS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.54",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/04/2026",
+    "Description": "UNITED      0162380150099",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1168.08",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/04/2026",
+    "Description": "DOGWOOD TAVERN",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-28.60",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/04/2026",
+    "Description": "DOGWOOD TAVERN",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/04/2026",
+    "Post Date": "03/04/2026",
+    "Description": "TMF MOTLEY FOOL",
+    "Category": "Professional Services",
+    "Type": "Sale",
+    "Amount": "-199.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/03/2026",
+    "Post Date": "03/04/2026",
+    "Description": "Kindle Unltd*B92XY99I0",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "03/03/2026",
+    "Post Date": "03/03/2026",
+    "Description": "DMI* DELL SM BUS",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-3507.30",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/03/2026",
+    "Description": "SP TRASHIE",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-63.60",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/01/2026",
+    "Post Date": "03/03/2026",
+    "Description": "SHELL OIL 57543616502",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-29.24",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/28/2026",
+    "Post Date": "03/03/2026",
+    "Description": "LA TINGERIA ALEXANDRIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-46.54",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/03/2026",
+    "Description": "PTI*AK MUSH SCHOOL",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-169.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/03/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/03/2026",
+    "Description": "RIDWELL",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-34.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/03/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.55",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/02/2026",
+    "Post Date": "03/03/2026",
+    "Description": "WL *STEAM PURCHASE",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-29.18",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "03/01/2026",
+    "Post Date": "03/02/2026",
+    "Description": "GIANT 0261",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-78.47",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "03/01/2026",
+    "Post Date": "03/02/2026",
+    "Description": "MCDONALD'S M5006 OF VA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.74",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "03/01/2026",
+    "Post Date": "03/02/2026",
+    "Description": "DicksSportingGoods.com",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-3.43",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "03/01/2026",
+    "Post Date": "03/01/2026",
+    "Description": "AMAZON MKTPL*B93ID9IT1",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-39.20",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/27/2026",
+    "Post Date": "03/01/2026",
+    "Description": "DD *DOORDASH JETSPIZZA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-74.49",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/27/2026",
+    "Post Date": "03/01/2026",
+    "Description": "TST* SILVER DINER - ALEXA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.83",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/27/2026",
+    "Post Date": "03/01/2026",
+    "Description": "THE UPS STORE 3708",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-23.53",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/28/2026",
+    "Post Date": "03/01/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/28/2026",
+    "Post Date": "03/01/2026",
+    "Description": "TST* SILVER DINER - ALEXA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.49",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/28/2026",
+    "Post Date": "03/01/2026",
+    "Description": "COMPOST CREW INC  A BE",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-5.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/26/2026",
+    "Post Date": "02/27/2026",
+    "Description": "AMAZON MKTPL*BE3UN9PF2",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-116.30",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/26/2026",
+    "Post Date": "02/27/2026",
+    "Description": "GOOGLE *Crunchyroll An",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/26/2026",
+    "Post Date": "02/27/2026",
+    "Description": "DUNKIN #348454 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.29",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/26/2026",
+    "Post Date": "02/27/2026",
+    "Description": "PELOTON CREDIT $10/MONTH",
+    "Category": "Fees & Adjustments",
+    "Type": "Adjustment",
+    "Amount": "10.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/26/2026",
+    "Post Date": "02/27/2026",
+    "Description": "PELOTON* MEMBERSHIP",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-126.14",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/27/2026",
+    "Description": "TST*CLYDES AT MARK CENT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-258.30",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/26/2026",
+    "Description": "DUNKIN #348454 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.29",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/26/2026",
+    "Description": "PYN*AYN",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-404.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/26/2026",
+    "Description": "AMAZON MKTPL*BE9G83TK2",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-42.38",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/26/2026",
+    "Description": "AMAZON MKTPL*BE3FF0T02",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-104.58",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/26/2026",
+    "Description": "DD *DOORDASH MAMMASKIT",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-81.90",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/25/2026",
+    "Post Date": "02/26/2026",
+    "Description": "CLAUDE.AI SUBSCRIPTION",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-20.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/24/2026",
+    "Post Date": "02/25/2026",
+    "Description": "RIDWELL",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-12.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/24/2026",
+    "Post Date": "02/25/2026",
+    "Description": "DUNKIN #303739 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.96",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/23/2026",
+    "Post Date": "02/24/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "02/23/2026",
+    "Post Date": "02/24/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/22/2026",
+    "Post Date": "02/23/2026",
+    "Description": "SP MANUCURIST INC.",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-131.45",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "02/23/2026",
+    "Post Date": "02/23/2026",
+    "Description": "Kindle Svcs*B92IU0U82",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-4.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/22/2026",
+    "Post Date": "02/23/2026",
+    "Description": "SP I AND LOVE AND YOU",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-152.62",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/22/2026",
+    "Post Date": "02/23/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-199.92",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/21/2026",
+    "Post Date": "02/22/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-2.35",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/20/2026",
+    "Post Date": "02/22/2026",
+    "Description": "DD *DOORDASH CHILIWOKA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-62.96",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/21/2026",
+    "Post Date": "02/22/2026",
+    "Description": "INKD GRATUITY CHINA CH",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-63.80",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/22/2026",
+    "Post Date": "02/22/2026",
+    "Description": "LYFT   *1 RIDE 02-20",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-41.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/21/2026",
+    "Post Date": "02/22/2026",
+    "Description": "SP CANOPY",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-292.84",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/22/2026",
+    "Post Date": "02/22/2026",
+    "Description": "DD *DOORDASH FIVEGUYSB",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-37.38",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/20/2026",
+    "Post Date": "02/22/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/20/2026",
+    "Post Date": "02/22/2026",
+    "Description": "GLO30 OT* GLO30-VA-ALE",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-60.55",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/21/2026",
+    "Post Date": "02/22/2026",
+    "Description": "GOOGLE *YouTubePremium",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-22.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/21/2026",
+    "Post Date": "02/22/2026",
+    "Description": "INKD CHINA CHILCANO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-294.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/22/2026",
+    "Post Date": "02/22/2026",
+    "Description": "Disney Plus",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-19.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/19/2026",
+    "Post Date": "02/20/2026",
+    "Description": "ALEXANDRIA CLEANERS",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-26.25",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/19/2026",
+    "Post Date": "02/20/2026",
+    "Description": "STARBUCKS 8007827282",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.88",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/18/2026",
+    "Post Date": "02/20/2026",
+    "Description": "PANDA EXPRESS #2095",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-9.88",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/18/2026",
+    "Post Date": "02/19/2026",
+    "Description": "ACTBLUE* JAMES.TALARIC",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-10.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/17/2026",
+    "Post Date": "02/19/2026",
+    "Description": "REI #34 BAILEYS CROSS",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-297.82",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/18/2026",
+    "Post Date": "02/19/2026",
+    "Description": "MARKET BASKET - PENTAGON",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.05",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/17/2026",
+    "Post Date": "02/18/2026",
+    "Description": "ZENNI OPTICAL  INC.",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-53.90",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/17/2026",
+    "Post Date": "02/18/2026",
+    "Description": "WL *STEAM PURCHASE",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-29.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "02/16/2026",
+    "Post Date": "02/17/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-189.60",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/16/2026",
+    "Post Date": "02/17/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/16/2026",
+    "Post Date": "02/17/2026",
+    "Description": "THRIVE MARKET",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-59.95",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/17/2026",
+    "Post Date": "02/17/2026",
+    "Description": "GB* HUMANE SOCIETY OF",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-118.30",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/15/2026",
+    "Post Date": "02/17/2026",
+    "Description": "LA TINGERIA ALEXANDRIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-28.73",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/15/2026",
+    "Post Date": "02/16/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "7000.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/16/2026",
+    "Description": "CHICK-FIL-A #03540",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-10.26",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/16/2026",
+    "Description": "SUNOCO 8002229801",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-39.71",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/13/2026",
+    "Post Date": "02/15/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-75.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/15/2026",
+    "Description": "SP SHEETS LAUNDRY CLUB",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-16.93",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/13/2026",
+    "Post Date": "02/15/2026",
+    "Description": "Prime Video Channels",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-12.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/13/2026",
+    "Post Date": "02/15/2026",
+    "Description": "HARRIS TEETER #0235",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-30.10",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/15/2026",
+    "Description": "WALGREENS #11763",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-33.87",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/15/2026",
+    "Description": "PANERA BREAD #600695 O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-21.70",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/15/2026",
+    "Description": "CAFE SADO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-212.02",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/13/2026",
+    "Post Date": "02/15/2026",
+    "Description": "ROBEKS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.98",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/14/2026",
+    "Post Date": "02/15/2026",
+    "Description": "FI - @FI.DOGS",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-200.34",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/13/2026",
+    "Post Date": "02/15/2026",
+    "Description": "CRICUT",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-9.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/13/2026",
+    "Post Date": "02/15/2026",
+    "Description": "GLOBAL-E* PRUSA",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-2071.93",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/12/2026",
+    "Post Date": "02/13/2026",
+    "Description": "FLOYD'S 99 ALEXANDRIA -",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-54.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "02/12/2026",
+    "Post Date": "02/13/2026",
+    "Description": "AMAZON MKTPL*5N31G82T3",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-66.72",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/12/2026",
+    "Post Date": "02/13/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-2.14",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/12/2026",
+    "Post Date": "02/13/2026",
+    "Description": "JBA-BURGER KG 6413",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-8.47",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/11/2026",
+    "Post Date": "02/12/2026",
+    "Description": "STARBUCKS 8007827282",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.94",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/11/2026",
+    "Post Date": "02/12/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-94.93",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/11/2026",
+    "Post Date": "02/12/2026",
+    "Description": "MCDONALD'S M5006 OF VA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-24.28",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/11/2026",
+    "Post Date": "02/12/2026",
+    "Description": "DD *DOORDASH FOURSISTE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-90.40",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/10/2026",
+    "Post Date": "02/11/2026",
+    "Description": "PULMONARY  MEDICAL ASSOCI",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-20.00",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "02/09/2026",
+    "Post Date": "02/10/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "02/09/2026",
+    "Post Date": "02/10/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "02/09/2026",
+    "Post Date": "02/10/2026",
+    "Description": "ONEQUINCE* Q20569704",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-354.79",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/09/2026",
+    "Post Date": "02/10/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-10.35",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/08/2026",
+    "Post Date": "02/09/2026",
+    "Description": "APPLE.COM/BILL",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-0.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/08/2026",
+    "Post Date": "02/09/2026",
+    "Description": "NESPRESSO USA INC",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-72.72",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/07/2026",
+    "Post Date": "02/09/2026",
+    "Description": "VA ABC STORE 372",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-100.68",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/06/2026",
+    "Post Date": "02/08/2026",
+    "Description": "SWISSINTAIR 7244002482980",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1666.45",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/06/2026",
+    "Post Date": "02/08/2026",
+    "Description": "NH PARCO DEGLI ARAGONESI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-166.35",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "02/06/2026",
+    "Post Date": "02/08/2026",
+    "Description": "GOOGLE *Google One",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/06/2026",
+    "Post Date": "02/08/2026",
+    "Description": "SWISSINTAIR 7244002482981",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1666.45",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/07/2026",
+    "Post Date": "02/08/2026",
+    "Description": "GUITAR CENTER #847",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-26.45",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/08/2026",
+    "Post Date": "02/08/2026",
+    "Description": "PANERA BREAD #600695 O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-30.74",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/07/2026",
+    "Post Date": "02/08/2026",
+    "Description": "DD *DOORDASH ICHIBANSU",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-73.57",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/06/2026",
+    "Post Date": "02/08/2026",
+    "Description": "Panasonic Avionics Corpor",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-32.30",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/07/2026",
+    "Post Date": "02/08/2026",
+    "Description": "GIANT 0261",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-181.90",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/06/2026",
+    "Post Date": "02/08/2026",
+    "Description": "SFIZIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.59",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/07/2026",
+    "Post Date": "02/08/2026",
+    "Description": "WAL-MART #5753",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-72.17",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/07/2026",
+    "Post Date": "02/08/2026",
+    "Description": "THRIVE MARKET",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-100.18",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-26.77",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/06/2026",
+    "Description": "NAVY EXCHANGE 210024",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-32.98",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "SIGONELLA BIG AL'S NASII",
+    "Category": "Automotive",
+    "Type": "Sale",
+    "Amount": "-15.65",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "OSTERIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-133.19",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "La Mafaldineria",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-73.99",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-3.99",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-19.07",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-20.97",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/05/2026",
+    "Post Date": "02/06/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-19.09",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "NEROLI BIO RELAIS",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-233.05",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "MCDONALD'S",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-12.54",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1.01",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/03/2026",
+    "Post Date": "02/05/2026",
+    "Description": "NAVY EXCHANGE 210024",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-30.00",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "VINICOLO FOOD",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-26.62",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-19.09",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1.01",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-19.09",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/04/2026",
+    "Post Date": "02/05/2026",
+    "Description": "ALE'",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-10.06",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/03/2026",
+    "Post Date": "02/04/2026",
+    "Description": "SOSTARE SRL",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-3.27",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/03/2026",
+    "Post Date": "02/04/2026",
+    "Description": "Kindle Unltd*TN32O6OW3",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/04/2026",
+    "Description": "UNITED      0164364820237",
+    "Category": "Travel",
+    "Type": "Return",
+    "Amount": "425.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/03/2026",
+    "Post Date": "02/04/2026",
+    "Description": "LEVANTE GELATERIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-9.50",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/03/2026",
+    "Post Date": "02/04/2026",
+    "Description": "Accetti Group Srls",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-242.27",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "APT FIUMICINO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.64",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-19.18",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-19.18",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "ME  CUMPARI TURIDDU SRL",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-132.96",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "GIS PREMIUM ITALIA SR..",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-212.01",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "ILLY CAFFE'",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-6.35",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "AUTOGRILL 7202",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-22.76",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-4.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/02/2026",
+    "Post Date": "02/03/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-3.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "02/01/2026",
+    "Post Date": "02/02/2026",
+    "Description": "MCDONALD'S M5006 OF VA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-23.94",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "02/01/2026",
+    "Post Date": "02/02/2026",
+    "Description": "AMAZON MKTPL*YO4ZD5Q03",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-275.58",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/31/2026",
+    "Post Date": "02/01/2026",
+    "Description": "DD *DOORDASH COURTHOUS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-169.94",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/30/2026",
+    "Post Date": "02/01/2026",
+    "Description": "COMPOST CREW INC  A BE",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-4.13",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/30/2026",
+    "Post Date": "02/01/2026",
+    "Description": "GLO30 OT* GLO30-VA-ALE",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-35.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/30/2026",
+    "Post Date": "02/01/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/31/2026",
+    "Post Date": "02/01/2026",
+    "Description": "DD *DOORDASH CHILIWOKA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-2.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/30/2026",
+    "Post Date": "01/30/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "7072.46",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/29/2026",
+    "Post Date": "01/30/2026",
+    "Description": "MCDONALD'S F1799",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.10",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/29/2026",
+    "Post Date": "01/30/2026",
+    "Description": "DUNKIN #348454 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.62",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/28/2026",
+    "Post Date": "01/29/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-73.69",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/28/2026",
+    "Post Date": "01/29/2026",
+    "Description": "DD *DOORDASH CHILIWOKA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-83.83",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/28/2026",
+    "Post Date": "01/29/2026",
+    "Description": "DUNKIN #348454 Q35",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.62",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/29/2026",
+    "Post Date": "01/29/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/28/2026",
+    "Post Date": "01/29/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/27/2026",
+    "Post Date": "01/28/2026",
+    "Description": "MCDONALD'S M5006 OF VA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-16.08",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/27/2026",
+    "Post Date": "01/28/2026",
+    "Description": "AMAZON MKTPL*9V50P2C63",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-37.09",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "GOOGLE *Crunchyroll An",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "B7 ALEXANDRIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-35.70",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "AMAZON MKTPL*YI7PC80V3",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-222.55",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "SP GOOD IDEA CREATIONS",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-126.14",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/25/2026",
+    "Post Date": "01/27/2026",
+    "Description": "UNITED      0164364820238",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-425.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/25/2026",
+    "Post Date": "01/27/2026",
+    "Description": "UNITED      0164364820237",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-425.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "PELOTON CREDIT $10/MONTH",
+    "Category": "Fees & Adjustments",
+    "Type": "Adjustment",
+    "Amount": "10.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/26/2026",
+    "Post Date": "01/27/2026",
+    "Description": "PELOTON* MEMBERSHIP",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-126.14",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/25/2026",
+    "Post Date": "01/26/2026",
+    "Description": "CLAUDE.AI SUBSCRIPTION",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-20.00",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/25/2026",
+    "Post Date": "01/26/2026",
+    "Description": "Points United Miles",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-1015.88",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/22/2026",
+    "Post Date": "01/25/2026",
+    "Description": "UNITED      0164364171792",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-59.99",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/23/2026",
+    "Post Date": "01/25/2026",
+    "Description": "TARGET        00018937",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-54.35",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/24/2026",
+    "Post Date": "01/25/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/23/2026",
+    "Post Date": "01/25/2026",
+    "Description": "BP#9313008FOUR MILE RUN",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-18.50",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/23/2026",
+    "Post Date": "01/25/2026",
+    "Description": "CL *Chase Travel",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1898.03",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/23/2026",
+    "Post Date": "01/25/2026",
+    "Description": "DD *DOORDASH BUSBOYSAN",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-224.72",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/22/2026",
+    "Post Date": "01/23/2026",
+    "Description": "AMAZON MKTPL*5E7J35EP3",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-80.33",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/21/2026",
+    "Post Date": "01/22/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-167.39",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/22/2026",
+    "Post Date": "01/22/2026",
+    "Description": "Disney Plus",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-19.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/21/2026",
+    "Post Date": "01/22/2026",
+    "Description": "GOOGLE *YouTubePremium",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-22.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/21/2026",
+    "Post Date": "01/22/2026",
+    "Description": "DD *DOORDASH SAMPHAOTH",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-73.60",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/20/2026",
+    "Post Date": "01/21/2026",
+    "Description": "UBER   *TRIP",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-22.90",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/20/2026",
+    "Post Date": "01/21/2026",
+    "Description": "WHOLEFDS FCH #10775",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-14.83",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/20/2026",
+    "Post Date": "01/21/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.05",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/20/2026",
+    "Post Date": "01/21/2026",
+    "Description": "AMAZON MKTPL*ZA9ZK0583",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-18.01",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/19/2026",
+    "Post Date": "01/20/2026",
+    "Description": "SP THIRDLOVE",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-61.48",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/19/2026",
+    "Post Date": "01/20/2026",
+    "Description": "AMAZON MKTPL*HS2SS64R3",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-13.45",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/19/2026",
+    "Post Date": "01/20/2026",
+    "Description": "RIDWELL",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-30.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/19/2026",
+    "Post Date": "01/20/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/19/2026",
+    "Post Date": "01/20/2026",
+    "Description": "SP THIRDLOVE",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-101.98",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/17/2026",
+    "Post Date": "01/19/2026",
+    "Description": "SHELL OIL 57543616502",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-26.86",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/18/2026",
+    "Post Date": "01/19/2026",
+    "Description": "CKE*LENNY'S RESTAURANT CO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-85.66",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/18/2026",
+    "Post Date": "01/19/2026",
+    "Description": "SQ *LOVE BITES",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-22.66",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/16/2026",
+    "Post Date": "01/18/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/18/2026",
+    "Description": "SMARTRIP WASHINGTON DC",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-10.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/18/2026",
+    "Description": "SMARTRIP WASHINGTON DC",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-5.00",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/16/2026",
+    "Post Date": "01/18/2026",
+    "Description": "WL *Steam Purchase",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-39.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "01/16/2026",
+    "Post Date": "01/18/2026",
+    "Description": "AMZ*Woot LLC",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-48.75",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/18/2026",
+    "Description": "METRO 048-KING ST",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-7.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/17/2026",
+    "Post Date": "01/18/2026",
+    "Description": "TST*CIRCA 1892",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-51.58",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/18/2026",
+    "Description": "SAFEWAY 3250",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-191.04",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/16/2026",
+    "Description": "FLOYD'S 99 ALEXANDRIA -",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-54.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/16/2026",
+    "Description": "NESPRESSO USA  INC.",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-24.12",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/16/2026",
+    "Description": "TST* OAK ALEXANDRIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-477.26",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/16/2026",
+    "Description": "PMUSA 758044 ALEXANDRI",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-1.30",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/15/2026",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "4611.26",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/15/2026",
+    "Post Date": "01/15/2026",
+    "Description": "DD *DOORDASH CHICKENSA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-40.44",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/14/2026",
+    "Post Date": "01/15/2026",
+    "Description": "HARRIS TEETER",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-28.48",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/14/2026",
+    "Post Date": "01/15/2026",
+    "Description": "ANTHROPOLOGIE  00564",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-42.40",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/14/2026",
+    "Post Date": "01/15/2026",
+    "Description": "SP I AND LOVE AND YOU",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-152.62",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/13/2026",
+    "Post Date": "01/14/2026",
+    "Description": "Prime Video Channels",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-12.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/13/2026",
+    "Post Date": "01/14/2026",
+    "Description": "CRICUT",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-9.99",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/14/2026",
+    "Post Date": "01/14/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-75.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/13/2026",
+    "Post Date": "01/14/2026",
+    "Description": "DD *DOORDASH COURTHOUS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-53.33",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/13/2026",
+    "Post Date": "01/13/2026",
+    "Description": "AMAZON MKTPL*C27FY9VQ3",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-80.30",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/12/2026",
+    "Post Date": "01/13/2026",
+    "Description": "ASF*Krav Maga Northern Fi",
+    "Category": "Education",
+    "Type": "Sale",
+    "Amount": "-74.00",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "01/12/2026",
+    "Post Date": "01/13/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-150.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/12/2026",
+    "Post Date": "01/13/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/10/2026",
+    "Post Date": "01/12/2026",
+    "Description": "AMC 2798 SHIRLINGTON 7",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-18.95",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "01/12/2026",
+    "Post Date": "01/12/2026",
+    "Description": "PANERA BREAD #600695 O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-23.56",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/09/2026",
+    "Post Date": "01/11/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/10/2026",
+    "Post Date": "01/11/2026",
+    "Description": "GLO30-VA-ALEXANDRIA-O",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-30.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/10/2026",
+    "Post Date": "01/11/2026",
+    "Description": "DUTCH OVEN JAMAICAN REST",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-37.16",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/10/2026",
+    "Post Date": "01/11/2026",
+    "Description": "SQ *KRAV MAGA NORTHERN VI",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-47.99",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "01/09/2026",
+    "Post Date": "01/11/2026",
+    "Description": "Sixt 2367734-1103310",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-121.22",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/09/2026",
+    "Post Date": "01/11/2026",
+    "Description": "GIRLSCOUTSN",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-30.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/09/2026",
+    "Post Date": "01/11/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.15",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/10/2026",
+    "Post Date": "01/11/2026",
+    "Description": "AMC 9640 ONLINE",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-16.18",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "01/08/2026",
+    "Post Date": "01/09/2026",
+    "Description": "DD *DOORDASH CHILIWOKA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-66.92",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/08/2026",
+    "Post Date": "01/09/2026",
+    "Description": "APPLE.COM/BILL",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-0.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/06/2026",
+    "Post Date": "01/07/2026",
+    "Description": "GOOGLE *Google One",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/06/2026",
+    "Post Date": "01/07/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-92.72",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/07/2026",
+    "Description": "TACO BELL 033097",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.44",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/06/2026",
+    "Post Date": "01/06/2026",
+    "Description": "Payment Thank You - Web",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "4000.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/06/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-65.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/06/2026",
+    "Description": "HARRIS TEETER",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-10.15",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/06/2026",
+    "Description": "SHOP.8BITDO",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-13.97",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/06/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.15",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/06/2026",
+    "Description": "TST* BENNY ON THE BEACH O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-97.32",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/06/2026",
+    "Description": "HARRIS TEETER #0133",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-16.94",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/05/2026",
+    "Post Date": "01/05/2026",
+    "Description": "STEAMGAMES.COM 4259522985",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-4.99",
+    "Memo": "",
+    "category": "Entertainment"
+  },
+  {
+    "Transaction Date": "01/03/2026",
+    "Post Date": "01/05/2026",
+    "Description": "CHICK-FIL-A #04737",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-5.63",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/04/2026",
+    "Post Date": "01/05/2026",
+    "Description": "THRIVE MARKET",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-238.16",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/04/2026",
+    "Post Date": "01/05/2026",
+    "Description": "TST*MAMMA MIAS ON THE B",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-27.26",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/04/2026",
+    "Post Date": "01/05/2026",
+    "Description": "SP STUDS INC.",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-52.64",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "SQ *COMMON GROUNDS BREW &amp;",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-19.93",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "AMAZON MKTPL*WB5H37QM3",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-127.18",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "01/03/2026",
+    "Post Date": "01/04/2026",
+    "Description": "Kindle Unltd*405YM9HU3",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-11.99",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "WHOLEFDS FCH #10775",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-54.76",
+    "Memo": "",
+    "category": "Groceries"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-18.90",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "TST* BENNY ON THE BEACH O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-58.15",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/03/2026",
+    "Post Date": "01/04/2026",
+    "Description": "PANDA EXPRESS #3971",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.72",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/03/2026",
+    "Post Date": "01/04/2026",
+    "Description": "STARBUCKS 8007827282",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-16.99",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "TACO BELL 033097",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.57",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "CANINE CARDIO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-50.00",
+    "Memo": "",
+    "category": "Pet Care"
+  },
+  {
+    "Transaction Date": "01/03/2026",
+    "Post Date": "01/04/2026",
+    "Description": "CVS/PHARMACY #03964",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-9.80",
+    "Memo": "",
+    "category": "Healthcare"
+  },
+  {
+    "Transaction Date": "01/03/2026",
+    "Post Date": "01/04/2026",
+    "Description": "EXXON NEWINGTON SERVIC",
+    "Category": "Gas",
+    "Type": "Sale",
+    "Amount": "-45.45",
+    "Memo": "",
+    "category": "Transportation"
+  },
+  {
+    "Transaction Date": "01/02/2026",
+    "Post Date": "01/04/2026",
+    "Description": "Monday.com INC",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-1680.00",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "12/31/2025",
+    "Post Date": "01/02/2026",
+    "Description": "CHICK-FIL-A #04737",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-17.95",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/01/2026",
+    "Post Date": "01/02/2026",
+    "Description": "PANDA EXPRESS #3971",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-13.53",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "01/01/2026",
+    "Post Date": "01/02/2026",
+    "Description": "APPLE.COM/BILL",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-39.98",
+    "Memo": "",
+    "category": "Subscriptions"
+  },
+  {
+    "Transaction Date": "01/01/2026",
+    "Post Date": "01/02/2026",
+    "Description": "DD *DOORDASH COURTHOUS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-38.85",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "12/31/2025",
+    "Post Date": "01/01/2026",
+    "Description": "SQ *RARE BIRD COFFEE ROAS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.00",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "12/31/2025",
+    "Post Date": "01/01/2026",
+    "Description": "TST* TATTE BAKERY - CLARE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.33",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "12/30/2025",
+    "Post Date": "01/01/2026",
+    "Description": "TST*MAMMA MIAS ON THE B",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-3.59",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "12/31/2025",
+    "Post Date": "01/01/2026",
+    "Description": "PANDA EXPRESS #3971",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-9.10",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "12/31/2025",
+    "Post Date": "01/01/2026",
+    "Description": "TST* BENNY ON THE BEACH O",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-43.62",
+    "Memo": "",
+    "category": "Restaurants"
+  }
+]

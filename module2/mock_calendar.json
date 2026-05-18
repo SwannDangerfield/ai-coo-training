@@ -1,0 +1,26 @@
+[
+  {
+    "summary": "Team standup",
+    "start": "2026-05-18T09:00:00",
+    "end": "2026-05-18T09:30:00",
+    "attendees": ["team@company.com"]
+  },
+  {
+    "summary": "1:1 with Sarah (Engineering Lead)",
+    "start": "2026-05-18T11:00:00",
+    "end": "2026-05-18T11:30:00",
+    "attendees": ["sarah@company.com"]
+  },
+  {
+    "summary": "Q2 Planning Review",
+    "start": "2026-05-18T14:00:00",
+    "end": "2026-05-18T15:30:00",
+    "attendees": ["leadership@company.com", "finance@company.com"]
+  },
+  {
+    "summary": "Vendor renewal discussion - AWS",
+    "start": "2026-05-18T16:00:00",
+    "end": "2026-05-18T16:30:00",
+    "attendees": ["procurement@company.com"]
+  }
+]

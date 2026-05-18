@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(c:/Users/Kendall/ai-coo-training/venv/Scripts/pip.exe list *)",
+      "Bash(c:/Users/Kendall/ai-coo-training/week1-api-basics/venv/Scripts/pip.exe list *)"
+    ]
+  }
+}

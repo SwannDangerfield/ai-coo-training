@@ -1,0 +1,102 @@
+[
+  {
+    "Transaction Date": "05/07/2026",
+    "Post Date": "05/08/2026",
+    "Description": "FRG*SHOP.NHL.COM",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-83.33",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/08/2026",
+    "Description": "AAFES-JBA FC STARBUCKS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.55",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/07/2026",
+    "Post Date": "05/08/2026",
+    "Description": "ALEXANDRIA CLEANERS",
+    "Category": "Personal",
+    "Type": "Sale",
+    "Amount": "-29.70",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/07/2026",
+    "Post Date": "05/08/2026",
+    "Description": "DD *DOORDASH SUSHIJINA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-102.89",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/08/2026",
+    "Description": "PANDA EXPRESS #2095",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-15.10",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/08/2026",
+    "Description": "HOBBY-LOBBY #864",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-36.01",
+    "Memo": "",
+    "category": "Shopping"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/07/2026",
+    "Description": "GOOGLE *Google One",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-1.99",
+    "Memo": "",
+    "category": "Personal"
+  },
+  {
+    "Transaction Date": "05/06/2026",
+    "Post Date": "05/07/2026",
+    "Description": "VA ABC STORE 080",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-40.27",
+    "Memo": "",
+    "category": "Other"
+  },
+  {
+    "Transaction Date": "05/05/2026",
+    "Post Date": "05/06/2026",
+    "Description": "TST*SAIGON ROLLS ALEXAND",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-20.64",
+    "Memo": "",
+    "category": "Restaurants"
+  },
+  {
+    "Transaction Date": "05/05/2026",
+    "Post Date": "05/06/2026",
+    "Description": "TST* PORT CITY",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.83",
+    "Memo": "",
+    "category": "Other"
+  }
+]

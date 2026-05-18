@@ -1,0 +1,15 @@
+SPENDING SUMMARY
+============================================================
+Other                $ 37,786.37
+Shopping             $ 10,122.05
+Restaurants          $  8,690.94
+Pet Care             $  5,430.03
+Groceries            $  4,194.42
+Transportation       $  2,392.12
+Entertainment        $  2,024.47
+Personal             $  1,991.48
+Subscriptions        $  1,365.24
+Healthcare           $    575.11
+Housing              $    105.00
+============================================================
+TOTAL SPENT          $ 74,677.23

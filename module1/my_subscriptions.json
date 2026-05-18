@@ -1,0 +1,58 @@
+[
+  {
+    "name": "YouTube Premium",
+    "monthly_cost": 22.99,
+    "renewal_date": "2026-06-15",
+    "category": "entertainment",
+    "auto_renew": true
+  },
+  {
+    "name": "Peloton",
+    "monthly_cost": 116.14,
+    "renewal_date": "2026-06-26",
+    "category": "health",
+    "auto_renew": true
+  },
+  {
+    "name": "Claude",
+    "monthly_cost": 20.00,
+    "renewal_date": "2026-06-01",
+    "category": "productivity",
+    "auto_renew": true
+  },
+  {
+    "name": "Kindle Unlimited",
+    "monthly_cost": 12.00,
+    "renewal_date": "2026-06-01",
+    "category": "personal",
+    "auto_renew": false
+  },
+  {
+    "name": "Disney+",
+    "monthly_cost": 20.00,
+    "renewal_date": "2026-06-01",
+    "category": "entertainment",
+    "auto_renew": false
+  },
+{
+    "name": "Prime Video",
+    "monthly_cost": 14.00,
+    "renewal_date": "2026-06-01",
+    "category": "entertainment",
+    "auto_renew": false
+  },
+  {
+    "name": "Google One",
+    "monthly_cost": 2.00,
+    "renewal_date": "2026-06-01",
+    "category": "personal",
+    "auto_renew": true
+  },
+  {
+    "name": "BarkBox",
+    "monthly_cost": 20.00,
+    "renewal_date": "2027-05-01",
+    "category": "personal",
+    "auto_renew": false
+  }
+]
