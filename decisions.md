@@ -185,3 +185,93 @@ Main failure modes:
 - Plan estimate: 30+ hours
 - All using real data (bank transactions, Google Calendar, Gmail)
 - Total monthly cost if running everything: <$1
+
+## Module 2, Task 3: Productivity Dashboard
+
+**What worked:**
+- Multi-calendar support: pulls from both "Kendall Almaguer" (primary) and "Almaguer Calendar" (secondary)
+- Smart event categorization using attendees + keywords:
+  - Meetings: Events with other attendees
+  - Focus Time: Solo work blocks (coding, deep work, etc.)
+  - Personal: Appointments, therapy, errands (matched by keywords: dr, krav, therapy, telehealth, etc.)
+- Weekly retrospective analysis: backward-looking vs. Morning Brief's forward-looking approach
+- Clean category breakdown output shows real time allocation before GPT synthesis
+- Cost: ~$0.02 per weekly report (867 tokens)
+
+**What broke:**
+- Python bytecode caching nightmare
+  - Edited file but Python kept running old cached version from `__pycache__/`
+  - Spent 30+ minutes debugging "why isn't my code running?"
+  - Fix: `Remove-Item __pycache__ -Recurse -Force`
+  - Lesson: When code changes don't take effect, delete __pycache__ first
+- Duplicate function definitions in same file
+  - Had TWO `generate_dashboard()` functions - old version and new version
+  - Python was running the first one (old), ignoring the second (new)
+  - VS Code showed warnings but didn't make it obvious
+  - Fix: Search for function name, found it twice, deleted old version
+- Virtual environment deactivation
+  - venv got deactivated mid-session (probably when switching directories)
+  - Led to "ModuleNotFoundError: No module named 'openai'"
+  - Fix: Always check `(venv)` shows in prompt before running scripts
+- Case-sensitive keyword matching
+  - Added personal keywords like 'Dr', 'Krav' but was checking against `summary.lower()`
+  - Events with "Dr. Smith" weren't matching because 'Dr' ≠ 'dr'
+  - Fix: lowercase ALL keywords in the list
+
+**Real output:**
+- Weekly dashboard analyzing last 7 days across 13 calendar events
+- Example breakdown from actual data:
+  - Meetings: 2 hours (8%)
+  - Focus Time: 24 hours (87%)
+  - Personal: 6.5 hours (5%)
+- GPT identifies patterns: "Meeting-heavy Tuesdays", "Low Friday productivity"
+- Actionable recommendations: redistribute meetings, block more focus time, set fixed email hours
+- Raw data section shows breakdown by category (not hidden like debug output)
+
+**Technical wins:**
+- Learned Google Calendar API supports multiple calendar IDs in single script
+- Used `defaultdict(lambda: dict)` for clean nested data structures
+- Clean function separation: `categorize_event()` does one thing well
+- Proper error handling when pulling from multiple calendars (try/except per calendar)
+
+**Cost:**
+- ~$0.02 per weekly report
+- Running monthly (4 reports) = $0.08/month
+- 50x cheaper than any "productivity analytics" SaaS
+
+**Time saved:**
+- Before: No systematic weekly review, relied on memory
+- After: 3-5 minutes reviewing synthesized insights
+- Identifies patterns I wouldn't catch manually (e.g., "Wednesdays have 10 hours of focus time")
+
+**What I'd do differently at scale:**
+- Add week-over-week comparison ("Meeting time up 30% from last week")
+- Flag anomalies automatically ("You spent 15 hours in meetings - highest ever")
+- Add task completion tracking from Notion/Asana
+- Visual charts (time breakdown by day as bar chart)
+- Email it automatically every Sunday night
+
+**Categorization logic decisions:**
+- Default solo events to Focus Time (not Personal) - assumes calendar blocking = intentional work time
+- This might miscategorize "forgot to add attendees" meetings as Focus Time
+- Could improve: check event description for meeting URLs (Zoom, Meet) → reclassify as Meeting
+- Trade-off: Simple rules work 90% of the time; edge cases require human review
+
+**Integration with Morning Brief:**
+- Morning Brief: Daily, forward-looking ("what's today?")
+- Productivity Dashboard: Weekly, backward-looking ("how was last week?")
+- Together they create a complete productivity feedback loop
+
+**Next steps:**
+- Could schedule this to run automatically every Sunday at 8pm (Task Scheduler)
+- Could add Slack integration (post dashboard to #personal channel)
+- Could expand to pull from Notion for task completion rates
+
+---
+
+**Module 2 Complete:**
+- Morning Brief: Daily synthesis (calendar + email) ✅
+- Productivity Dashboard: Weekly retrospective ✅
+- Total time: ~14 hours vs. 25+ hour estimate
+- Both using real Google Calendar + Gmail data
+- Total monthly cost if running both: <$1
