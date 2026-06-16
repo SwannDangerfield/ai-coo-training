@@ -2,57 +2,91 @@
   {
     "name": "YouTube Premium",
     "monthly_cost": 22.99,
-    "renewal_date": "2026-06-15",
-    "category": "entertainment",
-    "auto_renew": true
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-06-21",
+    "category": "Entertainment",
+    "auto_renew": true,
+    "notes": "Includes YouTube Music and ad-free experience."
   },
   {
     "name": "Peloton",
     "monthly_cost": 116.14,
-    "renewal_date": "2026-06-26",
-    "category": "health",
-    "auto_renew": true
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-06-26",
+    "category": "Personal",
+    "auto_renew": true,
+    "notes": "Includes access to live and on-demand classes."
   },
   {
     "name": "Claude",
     "monthly_cost": 20.00,
-    "renewal_date": "2026-06-01",
-    "category": "productivity",
-    "auto_renew": true
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-07-01",
+    "category": "Subscriptions",
+    "auto_renew": true,
+    "notes": ""
   },
   {
     "name": "Kindle Unlimited",
     "monthly_cost": 12.00,
-    "renewal_date": "2026-06-01",
-    "category": "personal",
-    "auto_renew": false
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-07-03",
+    "category": "Entertainment",
+    "auto_renew": true,
+    "notes": ""
   },
   {
     "name": "Disney+",
     "monthly_cost": 20.00,
-    "renewal_date": "2026-06-01",
-    "category": "entertainment",
-    "auto_renew": false
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-07-01",
+    "category": "Subscriptions",
+    "auto_renew": true,
+    "notes": ""
   },
-{
+  {
     "name": "Prime Video",
-    "monthly_cost": 14.00,
-    "renewal_date": "2026-06-01",
-    "category": "entertainment",
-    "auto_renew": false
+    "monthly_cost": 8.99,
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-06-16",
+    "category": "Subscriptions",
+    "auto_renew": true,
+    "notes": ""
   },
   {
     "name": "Google One",
     "monthly_cost": 2.00,
-    "renewal_date": "2026-06-01",
-    "category": "personal",
-    "auto_renew": true
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-07-07",
+    "category": "Subscriptions",
+    "auto_renew": true,
+    "notes": "Provides 100GB of cloud storage across Google services."
   },
   {
     "name": "BarkBox",
     "monthly_cost": 20.00,
-    "renewal_date": "2027-05-01",
-    "category": "personal",
-    "auto_renew": false
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-07-01",
+    "category": "Pet Care",
+    "auto_renew": false,
+    "notes": "Monthly box of toys and treats for your dog. Canceled auto-renewal."
+  },
+  {
+    "name": "Restaurant Depot",
+    "monthly_cost": 6.00,
+    "billing_cycle": "monthly",
+    "next_renewal_date": "2026-07-04",
+    "category": "Personal",
+    "auto_renew": true,
+    "notes": "Meal subscription for home cooking."
+  },
+  {
+    "name": "Krav Maga",
+    "monthly_cost": 148.00,
+    "billing_cycle": "bi-weekly",
+    "next_renewal_date": "2026-06-18",
+    "category": "Personal",
+    "auto_renew": true,
+    "notes": "Gym membership."
   }
 ]
