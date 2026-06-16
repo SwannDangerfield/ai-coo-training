@@ -62,10 +62,11 @@ def get_inbox_emails():
     print('📧 Fetching inbox emails...')
     
     results = service.users().messages().list(
-        userId='me',
-        labelIds=['INBOX'],
-        maxResults=20
-    ).execute()
+    userId='me',
+    labelIds=['INBOX'],
+    q='-category:promotions -category:social -category:updates',
+    maxResults=20
+).execute()
     
     messages = results.get('messages', [])
     
@@ -105,13 +106,6 @@ def get_inbox_emails():
 def sync_to_notion(emails):
     """Sync inbox emails to Notion task database"""
     print('📝 Syncing inbox emails to Notion...')
-    
-    # DEBUG: Check what columns Notion sees
-    db = notion.databases.retrieve(database_id=NOTION_DATABASE_ID)
-    print("\n🔍 Notion database columns:")
-    for prop_name, prop_data in db['properties'].items():
-        print(f"  '{prop_name}' ({prop_data['type']})")
-    print()
     
     # Get existing Notion tasks to avoid duplicates
     existing = notion.databases.query(database_id=NOTION_DATABASE_ID)
