@@ -84,15 +84,23 @@ def get_inbox_emails():
         sender = next((h['value'] for h in headers if h['name'] == 'From'), 'Unknown')
         date = next((h['value'] for h in headers if h['name'] == 'Date'), '')
         is_unread = 'UNREAD' in msg_data.get('labelIds', [])
-        
+
+        # Parse date into ISO format for Notion
+        try:
+            from email.utils import parsedate_to_datetime
+            received_date = parsedate_to_datetime(date).strftime('%Y-%m-%d')
+        except Exception:
+            received_date = datetime.now().strftime('%Y-%m-%d')
+
         emails.append({
             'id': msg['id'],
             'subject': subject,
             'from': sender,
             'date': date,
+            'received_date': received_date,
             'unread': is_unread
         })
-    
+           
     unread = [e for e in emails if e['unread']]
     read_pending = [e for e in emails if not e['unread']]
     
@@ -129,16 +137,25 @@ def sync_to_notion(emails):
 
         # Add to Notion
         notion.pages.create(
-            parent={"database_id": NOTION_DATABASE_ID},
-            properties={
-                "Name": {
-                    "title": [{"text": {"content": subject}}]
-                },
-                "Status": {
-                    "select": {"name": "To Do"}
-                }
-            }
-        )
+    parent={"database_id": NOTION_DATABASE_ID},
+    properties={
+        "Name": {
+            "title": [{"text": {"content": subject}}]
+        },
+        "Status": {
+            "select": {"name": "To Do"}
+        },
+        "Source": {
+            "rich_text": [{"text": {"content": "Email"}}]
+        },
+        "Email From": {
+            "rich_text": [{"text": {"content": email['from']}}]
+        },
+        "Date": {
+            "date": {"start": email['received_date']}
+        }
+    }
+)
         added += 1
     
     print(f'  ✅ Added: {added} tasks')
